@@ -1,0 +1,25 @@
+body{
+	background-color: rgba(246, 224, 202, 1);
+
+}
+
+
+.main{
+	width: 640px;
+	height: 490px;
+	border: 2px solid;
+	margin-left: 300px;
+	margin-top: 60px;
+	border: outset;
+
+}
+
+li{
+	font-size: 18px;
+}
+
+thead.thead{
+	color: white;
+	background-color: #ec7e2c;
+}
+
