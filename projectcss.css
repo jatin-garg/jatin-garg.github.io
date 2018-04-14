@@ -11,7 +11,7 @@ p{
 ul li{
 			
 			background-color: rgba(240, 247, 252, 1);
-			width: 251px;
+			width: 254px;
 			float: left;
 			border: 1px solid white;
 			height: 50px;
@@ -45,7 +45,7 @@ ul li{
 			display: block;
 		}
 		ul ul ul{
-			margin-left: 251px;
+			margin-left: 254px;
 			position: absolute;
 			top: 0;
 		}
