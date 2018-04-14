@@ -1,5 +1,4 @@
 body{
-	background-color:;
 	margin: 0;
 
 }
@@ -59,7 +58,7 @@ p{
 .divider1 {
     background-color: brown;
     border: 3px;
-    margin-top: 0px;
+    margin-top: 72px;
     padding-top: 2px
 }
 
@@ -70,4 +69,56 @@ p{
     margin-left: 34px;
     border: outset;
     text-align: center;
+}
+
+.hodimg{
+	width: 150px;
+	border-radius: 15px;
+}
+
+h2.hoddesk {
+    margin-left: 177px;
+    margin-top: -163px;
+
+}
+
+p.hodinfo {
+    /* margin-left: 158px; */
+    margin-top: 44px;
+}
+
+p.hodinfo1 {
+    margin-left: 174px;
+}
+
+.HOD {
+	width: 850px;
+	height: 650px;
+	border: ridge;
+	margin-top: -590px;
+}
+
+.navigation {
+    margin-left: 900px;
+    width: 220px;
+    height: 600px;
+    border: outset;
+}
+
+.nav{
+	background-color: brown;
+	color: white;
+	height: 40px;
+	text-align: center;
+	padding-top: 4px;
+}
+
+a{
+	text-decoration: none;
+	font-size: 20px;
+	color: brown;
+}
+
+a:hover{
+	text-decoration: underline;
 }
