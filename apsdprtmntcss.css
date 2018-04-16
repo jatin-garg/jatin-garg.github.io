@@ -10,6 +10,14 @@ h1{
 	color: white;
 }
 
+h2 {
+    background-color: brown;
+    margin-top: 17px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    color: white;
+}
+
 
 .divider {
     border: 2px;
