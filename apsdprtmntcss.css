@@ -20,7 +20,7 @@ h1{
 #outerbox{
 	width: 600px;
 	overflow: hidden;
-	margin-left: 680px;
+	margin-left: 663px;
 	
 }
 
@@ -103,6 +103,7 @@ p.hodinfo1 {
     width: 220px;
     height: 600px;
     border: outset;
+    background-color: bisque;
 }
 
 .nav{
