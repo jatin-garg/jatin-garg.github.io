@@ -1,6 +1,7 @@
 body{
 	margin: 0;
-
+	/*background-image: url("https://wallpaperscraft.com/image/lines_stripes_color_background_43493_3840x2400.jpg");
+*/
 }
 
 h1{
@@ -122,4 +123,9 @@ a{
 
 a:hover{
 	text-decoration: underline;
+}
+
+/*
+p{
+	color: white;
 }
