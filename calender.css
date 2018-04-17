@@ -4,14 +4,18 @@ body{
 }
 
 
-.main{
-	width: 640px;
-	height: 490px;
+/*.container1{
+	width: 50%;
+	height: auto;
 	border: 2px solid;
 	margin-left: 300px;
 	margin-top: 60px;
 	border: outset;
 
+}*/
+table.table-responsive {
+    margin-left: 25%;
+    border: outset;
 }
 
 li{
