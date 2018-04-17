@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	background-color: bisque;
+}
+
+header{
+	max-width: 100%;
+	background-color: brown;
+	padding-top: 25px;
+    padding-left: 111px;
+    padding-bottom: 1px;
+    height: 100px;
+}
+
+.logo {
+    font-size: 19px;
+    margin-left: 26px;
+    margin-top: 11px;
+    color: white;
+}
+
+#img {
+    float: right;
+    margin-top: -96px;
+  
+}
