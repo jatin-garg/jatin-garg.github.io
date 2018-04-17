@@ -32,7 +32,7 @@ header{
 
 ul li{
 			
-	background-color: brown;
+	background-color:rgba(240, 247, 252, 1);
 	width: 254px;
 	float: left;
 	border: 1px solid white;
@@ -87,4 +87,16 @@ ul li{
 
 .dceimg{
 	float: left;
+	text-align: center;
+	border: double;
+}
+
+.divider3{
+	height: 2px;
+	background-color: brown;
+	margin-top: 294px;
+}
+
+.img1:hover{
+	width: 51%
 }
